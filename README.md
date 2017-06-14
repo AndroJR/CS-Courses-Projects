@@ -1,1 +1,1 @@
-# Snake-game-C-Project
+ALL CS Courses Projects
